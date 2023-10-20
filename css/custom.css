@@ -1,0 +1,72 @@
+body {
+	padding-top: 50px;
+	color: #959595;
+	}
+	
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	}
+	
+.feature {
+	background: rgb(50, 78, 205) linear-gradient(to bottom, rgb(47, 213, 255), rgb(35, 117, 142));
+	color: black;
+
+	
+	}
+
+#feature-carousel {
+	min-height: 250px;
+	color:Darkblue;
+	text-align:center;
+	
+	}
+	
+.article-intro {
+    margin-bottom: 25px;
+	color:darkblue;
+	text-align: center;
+	
+}
+
+.footer-blurb {
+    padding: 30px 0;
+    background: rgb(50, 174, 205) linear-gradient(to bottom, rgb(47, 213, 255), rgb(200, 225, 233));
+    color: black;
+	
+	
+}
+    
+.footer-blurb-item {
+    padding: 30px;
+	text-align:justify;
+
+    }
+ 
+.small-print {
+	background-color: #eee;
+	padding: 30px 0;
+	text-align:center;
+}
+
+
+
+.article-intro:first-letter    {
+    font-weight:bold;
+    font-size: 2.0em;
+    float:left;
+	color:brown;
+    padding-right:10px;
+	
+	
+}
+.feature,
+
+.page-intro,
+.article-intro,
+
+.footer-blurb,
+.small-print {
+	
+	text-align: left;
+	color:darkblue;
+	}
