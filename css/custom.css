@@ -51,13 +51,14 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-.article-intro:first-letter    {
+.row p:first-letter    {
     font-weight:bold;
-    font-size: 2.0em;
-    float:left;
-	color:brown;
-    padding-right:10px;
+    font-size: 2.8em;
+  padding-right: 0px;
+	color:#691b37;
 	
+   
+
 	
 }
 .feature,
