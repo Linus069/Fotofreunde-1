@@ -30,7 +30,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .footer-blurb {
     padding: 30px 0;
-    background: rgb(50, 174, 205) linear-gradient(to bottom, rgb(47, 213, 255), rgb(200, 225, 233));
+    background-image: url(../bilder/hg.JPG);
+	background-repeat: repeat-x;
     color: black;
 	
 	
